@@ -10,7 +10,7 @@ const Benefits = () => {
     <Section id="features">
       <div className="container relative z-2">
         <Heading
-          className="md:max-w-md lg:max-w-2xl"
+          className="md:max-w-md lg:max-w-2xl mt-20"
           title="Be Smarter, Not Thinker with Finlit"
         />
 
