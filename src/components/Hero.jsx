@@ -36,7 +36,7 @@ const Hero = () => {
             <p className="body-1 max-w-3xl mx-auto mb-6 text-n-1 lg:mb-8">
               Unleash the knowledge of finance with Finlit. For the Youth, by the Youth.
             </p>
-            <Button href="/pricing" white>
+            <Button href="http://localhost:8080/">
               Get started
             </Button>
           </div>
